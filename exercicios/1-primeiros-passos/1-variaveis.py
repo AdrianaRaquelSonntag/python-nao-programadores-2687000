@@ -6,6 +6,8 @@
 # Declare variáveis do tipo string
 nome = 'Paloma'
 # Declare variáveis de cada tipo numérico
-
+profissão = 'administradora'
 
 # Declare uma variável do tipo booleano
+verdadeiro = "True"
+falso = "False"
